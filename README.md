@@ -1,10 +1,18 @@
-### 两个es6模块
-
+### es6模块
+主函数在  pathPoints/connection-straight.js 中
 
 #### 参数 example
 
 ```
-{entryPoint = [0, 0], entryDirection = [0, 1], entryExt = 10, exitPoint = [10, 10], exitDirection = [1, 0], exitExt = 10},turnRatio=0.5
+{
+    entryPoint = [0, 0], 
+    entryDirection = [0, 1], 
+    entryExt = 10, 
+    exitPoint = [10, 10], 
+    exitDirection = [1, 0], 
+    exitExt = 10
+},
+turnRatio=0.5
 ```
 
 #### entryPoint
